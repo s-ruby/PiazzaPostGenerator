@@ -1,9 +1,9 @@
 # LITAI1
 
-To scrape Piazza:
-  fill in username, password, courseID in config.py
-  call scraper and write text to a file
-To generate Text without GUI:
-  call fillDict on text file
-To generate Text with GUI:
+To scrape Piazza:<br>
+  fill in username, password, courseID in config.py<br>
+  call scraper and write text to a file<br>
+To generate Text without GUI:<br>
+  call fillDict on text file<br>
+To generate Text with GUI:<br>
   edit text_generator so generated texts prints out with a command arg.

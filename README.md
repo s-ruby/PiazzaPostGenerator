@@ -6,4 +6,4 @@ To scrape Piazza:<br>
 To generate Text without GUI:<br>
   -call fillDict on text file<br>
 To generate Text with GUI:<br>
-  -edit text_generator so generated texts prints out with a command arg.
+  -edit text_generator so generated texts prints out with a command line argument 

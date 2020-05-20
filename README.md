@@ -1,4 +1,4 @@
-# LITAI1
+# Piazza Post Scraper and Markov Chain Text Generator
 
 To scrape Piazza:<br>
   -fill in username, password, courseID in config.py<br>
